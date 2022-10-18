@@ -1,7 +1,7 @@
 
 # SpaceHz - En développement 🚧
 
-                            Bot Discord de Music basique en Discord.py
+Bot Discord de Music basique en Discord.py
 
 
 
@@ -10,7 +10,7 @@
 
 ## Installation
 
-[Télécharges le Setup](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[Télécharges le Setup](https://github.com/BBgamesTV/SpaceHz/releases/download/lauch/install.exe)
 
 Executes >> Install.exe
 
